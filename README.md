@@ -8,7 +8,6 @@
   Data Analyst | Passionate about Machine Learning, Deep Learning, Artificial Intelligence
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h3>
----
 
 ## 👨‍💻 About Me  
 - 🔭 Currently working on **LLM-powered Applications & Smart AI Platforms**  
