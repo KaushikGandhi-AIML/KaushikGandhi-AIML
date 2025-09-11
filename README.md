@@ -1,12 +1,11 @@
-<!-- Banner Image (Optional) -->
-<p align="center">
- <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-</p>
-
-# Hey There 👋, I'm Kaushik  
-
-🚀 Master's in AI & ML | Full-Stack & AI Developer  
-
+<img align="left" width="100%" height="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
+<h1 align="center">
+  Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Mehakk
+</h1>
+<h3 align="center">
+  Data Analyst | Passionate about Machine Learning, Deep Learning, Artificial Intelligence
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</h3>
 ---
 
 ## 👨‍💻 About Me  
