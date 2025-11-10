@@ -57,7 +57,7 @@
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kaushik-a-b1994124a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/kaushik-a-b1994124a](https://www.linkedin.com/in/kaushik-gandhi-a-b1994124a))  
 [![Email](https://img.shields.io/badge/Email-kaushik.gandhi%40msam.christuniversity.in-red?style=flat&logo=gmail&logoColor=white)](mailto:kaushik.gandhi@msam.christuniversity.in)  
 
 ---
