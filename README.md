@@ -57,7 +57,7 @@
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik-blue?style=flat&logo=linkedin)]([[https://linkedin.com/in/gandhi-kaushik](https://www.linkedin.com/in/kaushik-gandhi-a-b1994124a)](https://www.linkedin.com/in/kaushik-gandhi-a-b1994124a))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushik-blue?style=flat&logo=linkedin)]([[https://linkedin.com/in/gandhi-kaushik](https://www.linkedin.com/in/gandhi-kaushik)](https://www.linkedin.com/in/gandhi-kaushik))  
 [![Email](https://img.shields.io/badge/Email-kauxhik77@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:kauxhik77@gmail.com)  
 
 ---
