@@ -10,11 +10,11 @@
 </h3>
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on **LLM-powered Applications & Smart AI Platforms**  
-- 📚 Studying **Artificial Intelligence & Machine Learning at CHRIST University**  
-- 🤝 Open to collaborate on **AI, ML, and Full-Stack projects**  
-- 🌱 Learning **MLOps, Cloud Deployments (AWS/GCP/Azure)**  
-- 🎯 Goal: Build **end-to-end intelligent systems** for real-world impact  
+- Currently working on **LLM-powered Applications & Smart AI Platforms**  
+- Studying **Artificial Intelligence & Machine Learning at CHRIST University**  
+- Open to collaborate on **AI, ML, and Full-Stack projects**  
+- Learning **MLOps, Cloud Deployments (AWS/GCP/Azure)**  
+- Goal: Build **end-to-end intelligent systems** for real-world impact  
 
 ---
 
