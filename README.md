@@ -10,7 +10,7 @@
 </h3>
 
 ## 👨‍💻 About Me  
-- Currently working on **LLM-powered Applications & Smart AI Platforms**  
+- Currently working as **AI Software Engineer at Worktual**  
 - Completed Master's in **Artificial Intelligence & Machine Learning at CHRIST University**  
 - Open to collaborate on **AI, ML, and Full-Stack projects**  
 - Learning **MLOps, Cloud Deployments (AWS/GCP/Azure)**  
